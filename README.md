@@ -4,4 +4,4 @@ Some description!
 
 ## Sub Header
 
-Tutorial sucks poopoo
+Finally learning how to use Git!
